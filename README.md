@@ -1,1 +1,1 @@
-# xpad-contracts
+# xpad.pro-contracts
