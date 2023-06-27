@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_value",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					}
+				],
+				"name": "fund",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ivesting.sol": "ivesting"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ivesting.sol": {
+			"keccak256": "0x19c123f637ca7bf654667adbdb59986c3ac36a4a159733faae0b3f6d389bfaff",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://380649183f03a23ffdb9d7e6aad447b62da6cff70f6ce9829125df54b7133542",
+				"dweb:/ipfs/QmTGNGmEeTUWQJft5cMGisdge687ZNtGz5DYcUrwEePwRC"
+			]
+		}
+	},
+	"version": 1
+}
